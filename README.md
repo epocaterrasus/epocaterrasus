@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @epocaterrasus
 - 👀 I’m interested in capital markets, technology and cars
-- 🌱 I’m currently learning how to code on Python and apply that knowledge to the financial industry
-- 💞️ I’m looking to collaborate on financial analysis and fintech related projects
+- 📚 I’m currently learning how to code on Python and apply that knowledge to the financial industry
+- 🤝 I’m looking to collaborate on financial analysis and fintech related projects
 - 📫 How to reach me epocaterra@protonmail.ch
 
 <!---
